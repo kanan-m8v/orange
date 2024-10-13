@@ -1,4 +1,4 @@
 	
 	Welcome to Orange Project
-	Update v0.1
+	Version v0.2 - "The orange is orange"
 
